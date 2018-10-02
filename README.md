@@ -13,4 +13,4 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 ## Transfer Learning
 
-1. [Keras text classification with Elmo Embeddings](https://github.com/nlptown/nlp-notebooks/blob/master/Elmo%20Embeddings.ipynb)
+1. [Keras sentiment analysis with Elmo Embeddings](https://github.com/nlptown/nlp-notebooks/blob/master/Elmo%20Embeddings.ipynb)
