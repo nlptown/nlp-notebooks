@@ -1,6 +1,10 @@
 # nlp-notebooks
 A collection of notebooks for Natural Language Processing from NLP Town
 
+## Text classification
+
+["Traditional" Text Classification with Scikit-learn](https://github.com/nlptown/nlp-notebooks/blob/master/Traditional%20text%20classification%20with%20Scikit-learn.ipynb)
+
 ## Sentence similarity
 
 [Simple Sentence Similarity](https://github.com/nlptown/nlp-notebooks/blob/master/Simple%20Sentence%20Similarity.ipynb)
