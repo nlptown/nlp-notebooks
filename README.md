@@ -7,8 +7,8 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 ## Sentence similarity
 
-[Simple Sentence Similarity](https://github.com/nlptown/nlp-notebooks/blob/master/Simple%20Sentence%20Similarity.ipynb)
-[Data Exploration with Sentence Similarity](Data%20exploration%20with%20sentence%20similarity.ipynb)
+1. [Simple Sentence Similarity](https://github.com/nlptown/nlp-notebooks/blob/master/Simple%20Sentence%20Similarity.ipynb)
+2. [Data Exploration with Sentence Similarity](Data%20exploration%20with%20sentence%20similarity.ipynb)
 
 ## Multilingual word embeddings
 
