@@ -5,6 +5,10 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 1. [NLP with Pre-trained models from spaCy and StanfordNLP](https://github.com/nlptown/nlp-notebooks/blob/master/NLP%20with%20pretrained%20models%20-%20spaCy%20and%20StanfordNLP.ipynb)
 
+## Named Entity Recognition
+
+1. [Updating spaCy's Named Entity Recognition System]()
+
 ## Text classification
 
 ["Traditional" Text Classification with Scikit-learn](https://github.com/nlptown/nlp-notebooks/blob/master/Traditional%20text%20classification%20with%20Scikit-learn.ipynb)
