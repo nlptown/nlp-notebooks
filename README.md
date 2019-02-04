@@ -7,7 +7,7 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 ## Named Entity Recognition
 
-1. [Updating spaCy's Named Entity Recognition System]()
+1. [Updating spaCy's Named Entity Recognition System](https://github.com/nlptown/nlp-notebooks/blob/master/Updating%20spaCy's%20Named%20Entity%20Recognition%20System.ipynb)
 
 ## Text classification
 
