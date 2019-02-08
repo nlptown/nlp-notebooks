@@ -1,6 +1,14 @@
 # nlp-notebooks
 A collection of notebooks for Natural Language Processing from NLP Town
 
+## NLP 101
+
+1. [NLP with Pre-trained models from spaCy and StanfordNLP](https://github.com/nlptown/nlp-notebooks/blob/master/NLP%20with%20pretrained%20models%20-%20spaCy%20and%20StanfordNLP.ipynb)
+
+## Named Entity Recognition
+
+1. [Updating spaCy's Named Entity Recognition System](https://github.com/nlptown/nlp-notebooks/blob/master/Updating%20spaCy's%20Named%20Entity%20Recognition%20System.ipynb)
+
 ## Text classification
 
 ["Traditional" Text Classification with Scikit-learn](https://github.com/nlptown/nlp-notebooks/blob/master/Traditional%20text%20classification%20with%20Scikit-learn.ipynb)
@@ -19,3 +27,4 @@ A collection of notebooks for Natural Language Processing from NLP Town
 ## Transfer Learning
 
 1. [Keras sentiment analysis with Elmo Embeddings](https://github.com/nlptown/nlp-notebooks/blob/master/Elmo%20Embeddings.ipynb)
+2. [Text classification with BERT in PyTorch](https://github.com/nlptown/nlp-notebooks/blob/master/Text%20classification%20with%20BERT%20in%20PyTorch.ipynb)
