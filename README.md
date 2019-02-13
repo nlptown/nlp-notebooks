@@ -3,7 +3,8 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 ## NLP 101
 
-1. [NLP with Pre-trained models from spaCy and StanfordNLP](https://github.com/nlptown/nlp-notebooks/blob/master/NLP%20with%20pretrained%20models%20-%20spaCy%20and%20StanfordNLP.ipynb)
+1. [An Introduction to Word Embeddings](https://github.com/nlptown/nlp-notebooks/blob/master/An%20Introduction%20to%20Word%20Embeddings.ipynb)
+2. [NLP with Pre-trained models from spaCy and StanfordNLP](https://github.com/nlptown/nlp-notebooks/blob/master/NLP%20with%20pretrained%20models%20-%20spaCy%20and%20StanfordNLP.ipynb)
 
 ## Named Entity Recognition
 
