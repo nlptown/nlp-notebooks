@@ -10,6 +10,7 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 1. [Updating spaCy's Named Entity Recognition System](https://github.com/nlptown/nlp-notebooks/blob/master/Updating%20spaCy's%20Named%20Entity%20Recognition%20System.ipynb)
 2. [Named Entity Recognition with Conditional Random Fields](https://github.com/nlptown/nlp-notebooks/blob/master/Named%20Entity%20Recognition%20with%20Conditional%20Random%20Fields.ipynb)
+3. [Sequence Labelling with a BiLSTM in PyTorch](https://github.com/nlptown/nlp-notebooks/blob/master/Sequence%20Labelling%20with%20a%20BiLSTM%20in%20PyTorch.ipynb)
 
 ## Text classification
 
