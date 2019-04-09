@@ -5,6 +5,7 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 1. [An Introduction to Word Embeddings](https://github.com/nlptown/nlp-notebooks/blob/master/An%20Introduction%20to%20Word%20Embeddings.ipynb)
 2. [NLP with Pre-trained models from spaCy and StanfordNLP](https://github.com/nlptown/nlp-notebooks/blob/master/NLP%20with%20pretrained%20models%20-%20spaCy%20and%20StanfordNLP.ipynb)
+3. [Discovering and Visualizing Topics in Texts with LDA](https://github.com/nlptown/nlp-notebooks/blob/master/Discovering%20and%20Visualizing%20Topics%20in%20Texts%20with%20LDA)
 
 ## Named Entity Recognition
 
