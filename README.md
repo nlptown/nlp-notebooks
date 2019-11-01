@@ -32,3 +32,4 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 1. [Keras sentiment analysis with Elmo Embeddings](https://github.com/nlptown/nlp-notebooks/blob/master/Elmo%20Embeddings.ipynb)
 2. [Text classification with BERT in PyTorch](https://github.com/nlptown/nlp-notebooks/blob/master/Text%20classification%20with%20BERT%20in%20PyTorch.ipynb)
+3. [Multilingual text classification with BERT](https://github.com/nlptown/nlp-notebooks/blob/master/Multilingual%20text%20classification%20with%20BERT.ipynb)
