@@ -18,6 +18,7 @@ A collection of notebooks for Natural Language Processing from NLP Town
 
 1. ["Traditional" Text Classification with Scikit-learn](https://github.com/nlptown/nlp-notebooks/blob/master/Traditional%20text%20classification%20with%20Scikit-learn.ipynb)
 2. [Intent Classification with Smaller Transformers](https://github.com/nlptown/nlp-notebooks/blob/master/Intent%20Classification%20with%20Small%20Transformers.ipynb)
+3. [Zero-Shot Text Classification](https://github.com/nlptown/nlp-notebooks/blob/master/Zero-Shot%20Text%20Classification.ipynb)
 
 ## Sentence similarity
 
